@@ -2,7 +2,7 @@ import axios from 'axios';
 import {AsyncStorage} from 'react-native';
 
 const instance =  axios.create({
-    baseURL:"http://5a28e936.ngrok.io"
+    baseURL:"http://e95725b5.ngrok.io"
 })
 
 //runs with ngrok and has to be changed every 8 hours
